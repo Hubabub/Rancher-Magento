@@ -1,2 +1,0 @@
-aws ecr get-login --region us-west-2
-docker build -t magento .
